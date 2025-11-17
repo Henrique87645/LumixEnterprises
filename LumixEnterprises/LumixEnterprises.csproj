@@ -123,6 +123,9 @@
     <EmbeddedResource Include="Views\LoginPage.resx">
       <DependentUpon>LoginPage.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Perfil.resx">
+      <DependentUpon>Perfil.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Shopp.resx">
       <DependentUpon>Shopp.cs</DependentUpon>
     </EmbeddedResource>
